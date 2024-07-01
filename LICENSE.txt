@@ -1,35 +1,28 @@
- 
-
- => FREE HTML TEMPLATE LICENSE BY HTML Codex
-
- All free HTML templates by HTML Codex are licensed under a Creative Commons Attribution 4.0 International License which means you are not allowed to remove the author�s credit link/attribution link/backlink.
-
- When you download or use our free HTML templates, it will attribute the following conditions.
+=> LICENCIA DE PLANTILLA HTML 
 
 
- => YOU ARE ALLOWED
+=> ESTÁ PERMITIDO
 
-      1. You are allowed to use for your personal and commercial purposes.
+1. Está permitido usar para tus propósitos personales y comerciales.
 
-      2. You are allowed to modify/customize however you like.
+2. Está permitido modificar/personalizar como desees.
 
-      3. You are allowed to convert/port for use for any CMS.
+3. Está permitido convertir/portar para uso en cualquier CMS.
 
-      4. You are allowed to share/distribute under the HTML Codex brand name.
+4. Está permitido compartir/distribuir bajo el nombre de la marca HTML Codex.
 
-      5. You are allowed to put a screenshot or a link on your blog posts or any other websites.
+5. Está permitido poner una captura de pantalla o un enlace en tus publicaciones de blog o cualquier otro sitio web.
 
+=> NO ESTÁ PERMITIDO
 
- => YOU ARE NOT ALLOWED
+1. No está permitido eliminar el enlace de crédito/atribución/enlace de retroceso del autor sin comprar la Licencia de Eliminación de Crédito (https://htmlcodex.com/credit-removal).
 
-      1. You are not allowed to remove the author�s credit link/attribution link/backlink without purchasing Credit Removal License ( https://htmlcodex.com/credit-removal ).
+2. No está permitido vender, revender, alquilar, arrendar, licenciar o sublicenciar.
 
-      2. You are not allowed to sell, resale, rent, lease, license, or sub-license.
+3. No está permitido subir a tus sitios web de plantillas o sitios web de colección de plantillas o cualquier otro sitio web de terceros sin nuestro permiso.
 
-      3. You are not allowed to upload on your template websites or template collection websites or any other third party websites without our permission.
+Esta licencia puede ser terminada si incumples alguna de estas condiciones.
 
- This license can be terminated if you breach any of these conditions.
+Por favor, contáctanos (https://htmlcodex.com/contact) si tienes alguna consulta.
 
- Please contact us (https://htmlcodex.com/contact) if you have any query.
-
- => PURCHASE CREDIT REMOVAL LICENSE ( https://htmlcodex.com/credit-removal )
+=> COMPRAR LICENCIA DE ELIMINACIÓN DE CRÉDITO (https://htmlcodex.com/credit-removal)
